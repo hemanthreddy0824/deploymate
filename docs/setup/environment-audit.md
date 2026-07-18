@@ -48,4 +48,3 @@
 
 Environment audit completed successfully.
 
-Ready for Docker installation.
